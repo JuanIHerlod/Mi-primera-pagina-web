@@ -64,6 +64,11 @@ footer {
   align-items: center;
 } 
 
+.greeting { 
+  text-align: center; 
+  }
+  
+
 /* Media Queries */
 
 @media (max-width: 767px) {
